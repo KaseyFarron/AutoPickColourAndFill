@@ -14,6 +14,6 @@ You must also make sure **F9** key is not currently used.
 This is a combination hotkey, you need to hold **F9** and then **left mouse click** to activate. You can keep **F9** held, and make numerous **left mouse clicks** as nessesary.
 | Hotkey | Action |
 | ---- | ---- |
-| F9 & LButton | Run |
+| F9 & Left Mouse Button | Run |
 | F11 | Reload Script |
 | F12 | Suspend Script |
