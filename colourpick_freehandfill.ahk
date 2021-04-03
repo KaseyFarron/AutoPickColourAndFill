@@ -1,3 +1,15 @@
+;===============================================================================
+; Colour Pick & Freehand Fill Script
+;
+; Description:
+; For various painting programs, allows in a single click to auto select the
+; colour under the cursor position and begins a freehand (lasso) selection using
+; the tool (if available) by the respective program. This is useful when you
+; need to fill small unfilled areas quickly left over by a normal bucket fill.
+;
+; Created by Kasey Farron, 01-03-2021
+;===============================================================================
+
 #NoEnv
 SendMode Input
 SetWorkingDir %A_ScriptDir%
