@@ -1,5 +1,5 @@
 ;===============================================================================
-; Colour Pick & Freehand Fill Script
+; Pick Colour & Fill Script
 ;
 ; Description:
 ; For various painting programs, allows in a single click to auto select the
