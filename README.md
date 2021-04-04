@@ -1,7 +1,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/55353161/113505773-de95d280-9538-11eb-91c0-3d28723e17ee.png" align="center" width="100"/></div>
-<h1 align="center">Auto Colour Pick & Fill</h1>
+<h1 align="center">Auto Pick Colour & Fill</h1>
 <div align="center">
-Auto Colour Pick & Fill is a <a href="https://www.autohotkey.com/">AutoHotkey</a> script that reduces the number of user actions required to paint small unfilled gaps left over by paint bucket tools when working with aliased line work, by picking the colour under the cursor position and initiating a lasso fill selection in a single click.
+Auto Pick Colour & Fill is a <a href="https://www.autohotkey.com/">AutoHotkey</a> script that reduces the number of user actions required to paint small unfilled gaps left over by paint bucket tools when working with aliased line work, by picking the colour under the cursor position and initiating a lasso fill selection in a single click.
 <br/><br/>
 <b>Currently OpenToonz (v1.5+) and CLIP Studio Paint are supported.</b>
 <br/><br/>
