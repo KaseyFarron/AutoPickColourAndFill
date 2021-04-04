@@ -32,7 +32,7 @@ You must setup the following shortcut keys for the script to work in your progra
 | ----------------- | ---------------- |
 | Colour Picker     | Alt              |
 | Close & Fill Tool | F                |
-| Normal Fill Tool  | G                |
+| Normal Fill Tool  | V                |
 
 Please note, the Normal Fill Tool refers to the sub-tool that you would use for a Normal flood fill, not the icon on the Toolbar, because all Fill Tools are grouped under the Toolbar icon using the shortcut for the group would may fail to switch the commands correctly.
 
