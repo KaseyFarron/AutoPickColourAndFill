@@ -6,7 +6,7 @@ Auto Colour Pick & Fill is a <a href="https://www.autohotkey.com/">AutoHotkey</a
 <b>Currently OpenToonz (v1.5+) and CLIP Studio Paint are supported.</b>
 <br/><br/>
 <a href="#how-to-use">How To Use</a> • <a href="#options">Options</a> • <a href="#download">Download</a>
-<br/></br/><br/>
+<br/></br/>
   
 <img src="https://user-images.githubusercontent.com/55353161/113505841-33d1e400-9539-11eb-9cc5-f84753b405cf.gif" />
 </div>
