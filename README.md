@@ -36,6 +36,14 @@ You must setup the following shortcut keys for the script to work in your progra
 
 Please note, the Normal Fill Tool refers to the sub-tool that you would use for a Normal flood fill, not the icon on the Toolbar, because all Fill Tools are grouped under the Toolbar icon using the shortcut for the group would may fail to switch the commands correctly.
 
+### Script Control
+You can control the script globally using the following hotkeys.
+| Hotkey | Action |
+| --- | --- |
+| Ctrl+Alt+F12 | Quit Script |
+| Ctrl+F12 | Reload Script |
+| Alt+F12 | Suspend Script |
+
 ### Options
 There are options you can change within the `settings.ini` file prefixed with `option`.
 
