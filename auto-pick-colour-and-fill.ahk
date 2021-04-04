@@ -1,11 +1,11 @@
 ;===============================================================================
-; Pick Colour & Fill Script
+; Auto Pick Colour & Fill Script
 ;
 ; Description:
 ; For various painting programs, allows in a single click to auto select the
 ; colour under the cursor position and begins a freehand (lasso) selection using
-; the tool (if available) by the respective program. This is useful when you
-; need to fill small unfilled areas quickly left over by a normal bucket fill.
+; the tool (if available) by the program, reducing the actions required to fill
+; those small unfilled areas left over by a normal bucket fill.
 ;
 ; Created by Kasey Farron, 01-03-2021
 ;===============================================================================
